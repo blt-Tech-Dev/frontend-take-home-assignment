@@ -6,7 +6,7 @@
 
 This is a take home assignment for the role of Junior Full-Stack developer at a company. The assignment is to clone selected section
 the website [Thairath](https://www.thairath.co.th/home) using JavaScript or Typesript framework such as Nextjs or any other technology of your choice with
-assets provided in the `assets` folder. The website need to be able to handle data from backend when integrate. The website should be responsive and should be able to run on all devices and to deploy the website on a server with [vercel](https://vercel.com/).
+assets provided in the `assets` folder. The website should be responsive and should be able to run on all devices and to deploy the website on a server with [vercel](https://vercel.com/).
 
 ## Description
 
@@ -30,8 +30,10 @@ The website should have the following sections:
 
 - Footer Section
 
-> Any components that display images should be able to handle receiving multiple sizes and ratios of image and be able to display normally.
-> The fewer library candidate uses the better the point will be.
+## Note
+- The website needs to be able to handle data from the backend.
+- Any components that display images should be able to handle receiving multiple sizes and ratios of images and be able to display normally.
+- The fewer library candidate uses the better the point will be.
 
 ```bash
 assets/
