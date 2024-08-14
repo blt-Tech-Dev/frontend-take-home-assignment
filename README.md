@@ -31,6 +31,7 @@ The website should have the following sections:
 - Footer Section
 
 ## Note
+- For icons can use any library that is close to reference.
 - The website needs to be able to handle data from the backend.
 - Any components that display images should be able to handle receiving multiple sizes and ratios of images and be able to display normally.
 - The fewer library candidate uses the better the point will be.
