@@ -30,6 +30,9 @@ The website should have the following sections:
 
 - Footer Section
 
+> Any components that display images should be able to handle receiving multiple sizes and ratios of image and be able to display normally.
+> The fewer library candidate uses the better the point will be.
+
 ```bash
 assets/
 	├── assets/
@@ -56,6 +59,5 @@ assets/
 
 
 > [!IMPORTANT]
-> The website should be responsive and able to run on all devices. The website should be deployed on a server with [vercel](https://vercel.com/). write the technologies you used and some explaination about this assignment that you created in the `README.md` file.
-> Any components that display images should be able to handle receiving multiple sizes and ratios of image and be able to display normally.
-> The fewer library candidate uses the better the point will be.
+> The website should be responsive and able to run on all devices. The website should be deployed on a server with [vercel](https://vercel.com/). write the technologies you used and some explanation about this assignment that you created in the `README.md` file.
+
