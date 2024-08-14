@@ -15,14 +15,19 @@ The website should have the following sections:
 - Navbar
 - Hero Section
 <img width="1510" alt="Screenshot 2567-08-14 at 11 30 16" src="https://github.com/user-attachments/assets/736f28fd-4726-4936-b7ec-4e41c2ae408b">
+
 - Blog Section
 <img width="1506" alt="Screenshot 2567-08-14 at 11 30 27" src="https://github.com/user-attachments/assets/c350b1d8-663c-4f49-89fc-dd8b224df0dc">
+
 - Suggest News Section
 <img width="1512" alt="Screenshot 2567-08-14 at 11 31 36" src="https://github.com/user-attachments/assets/fae6a31c-e9c9-4b94-8e26-39e47084fc3c">
+
 - Special Column Section
 <img width="1512" alt="Screenshot 2567-08-14 at 11 30 47" src="https://github.com/user-attachments/assets/187b6d4c-7a64-42c0-8967-49df4584910d">
+
 - Campaign Baner Section
 <img width="1512" alt="Screenshot 2567-08-14 at 11 30 54" src="https://github.com/user-attachments/assets/d8998e64-ded2-40b7-b32c-5ff5fd8c9c66">
+
 - Footer Section
 
 ```bash
