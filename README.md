@@ -25,7 +25,7 @@ The website should have the following sections:
 - Special Column Section
 <img width="1512" alt="Screenshot 2567-08-14 at 11 30 47" src="https://github.com/user-attachments/assets/187b6d4c-7a64-42c0-8967-49df4584910d">
 
-- Campaign Baner Section
+- Campaign Section
 <img width="1512" alt="Screenshot 2567-08-14 at 11 30 54" src="https://github.com/user-attachments/assets/d8998e64-ded2-40b7-b32c-5ff5fd8c9c66">
 
 - Footer Section
@@ -40,22 +40,43 @@ assets/
 	├── assets/
 	│   ├── images/
 	│   │   ├── section1 <- asset for Hero Section
-	│   │   │   ├── hero-image.jpg
-	│   │   ├── section2 <- asset for Top properties Section
-	│   │   │   ├── horizontal1.png
-	│   │   │   ├── horizontal2.png
-	│   │   │   ├── horizontal3.png
-	│   │   │   ├── horizontal4.png
-	│   │   │   ├── vertical1.png
-	│   │   ├── section3 <- asset for Newly listed properties Section
-	│   │   │   ├── poolvilla1.png
-	│   │   │   ├── poolvilla2.png
-	│   │   ├── section4 <- asset for Newly listed properties Section
-	│   │   │   ├── offer1.jpg
-	│   │   │   ├── offer2.jpg
-	│   │   │   ├── offer3.jpg
-	│   │   │   ├── offer4.jpg
-	│   │   │   ├── offer5.jpg
+	│   │   │   ├── banner1.png
+	│   │   │   ├── banner2.png
+	│   │   │   ├── banner3.png
+	│   │   │   ├── hero-title.png
+	│   │   │   ├── hero-bg.png
+	│   │   │   ├── blog1.png
+	│   │   │   ├── blog2.png 
+	│   │   ├── section2 <- asset for Blog Section
+	│   │   │   ├── blog1.png
+	│   │   │   ├── blog2.png 
+	│   │   │   ├── blog3.png
+	│   │   │   ├── blog4.png
+	│   │   │   ├── luck-logo.png
+	│   │   │   ├── banner-lottery.png
+	│   │   │   ├── banner-lottery2.png
+	│   │   │   ├── banner-horo-chinese.svg
+	│   │   │   ├── banner-horo-zodiac.svg
+	│   │   │   ├── banner-date.svg
+	│   │   │   ├── banner-tarot.svg
+	│   │   ├── section3 <- asset for Suggest News Section
+	│   │   │   ├── blog1.png
+	│   │   │   ├── blog2.png 
+	│   │   │   ├── blog3.png
+	│   │   │   ├── blog4.png
+	│   │   │   ├── thairath-money.png
+	│   │   ├── section4 <- asset for Special Column Section
+	│   │   │   ├── blog1.png
+	│   │   │   ├── blog2.png 
+	│   │   │   ├── blog_s1.png
+	│   │   │   ├── blog_s2.png
+	│   │   │   ├── thairath-money.png
+	│   │   │   ├── logo-bbl.png
+	│   │   │   ├── money-bg.png
+	│   │   │   ├── special-report-bg.png
+	│   │   ├── section5 <- asset for Campaign Section
+	│   │   │   ├── banner1.jpg
+	│   │   │   ├── banner2.jpg
 	│   ├── logo.svg
 ```
 
